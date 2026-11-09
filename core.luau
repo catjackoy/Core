@@ -1,4 +1,4 @@
--- Recovered Luau source by ZeroVector
+-- Recovered Luau source by CATHUB 
 local UserInputService = game:GetService("UserInputService")
 local v = FARM_RANGE
 local n = v or 300
